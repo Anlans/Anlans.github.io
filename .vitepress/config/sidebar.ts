@@ -8,38 +8,6 @@ export const sidebar = {
       ]
     },
     {
-      text: 'JavaScript',
-      items: [
-        { text: '基础', link: '/docs/javascript/1' },
-        { text: 'DOM', link: '/docs/javascript/2' },
-        { text: '函数', link: '/docs/javascript/3' },
-        { text: '数据类型', link: '/docs/javascript/4' },
-        { text: '字符串方法', link: '/docs/javascript/5' },
-        { text: '数组方法', link: '/docs/javascript/6' },
-        { text: '数组迭代', link: '/docs/javascript/7' },
-        { text: '对象方法', link: '/docs/javascript/8' },
-        { text: '日期对象', link: '/docs/javascript/9' },
-        { text: '数学对象', link: '/docs/javascript/10' },
-        { text: '异步函数', link: '/docs/javascript/11' },
-        { text: '面向对象编程', link: '/docs/javascript/12' },
-        { text: 'Class 类的使用', link: '/docs/javascript/13' },
-        { text: 'JavaScript API', link: '/docs/javascript/14' },
-        { text: '生成器', link: '/docs/javascript/15' },
-        { text: 'Proxy', link: '/docs/javascript/16' },
-        { text: '事件循环', link: '/docs/javascript/17' }
-      ]
-    },
-    {
-      text: 'Vue',
-      items: [
-        { text: 'Vue2 基础', link: '/docs/vue/1' },
-        { text: 'Vue3 基础', link: '/docs/vue/2' },
-        { text: 'Vue3 Router', link: '/docs/vue/3' },
-        { text: 'Vuex', link: '/docs/vue/4' },
-        { text: 'Pinia', link: '/docs/vue/5' }
-      ]
-    },
-    {
       text: 'React',
       items: [
         { text: '基础', link: '/docs/react/1' },
@@ -51,30 +19,6 @@ export const sidebar = {
       ]
     },
     {
-      text: 'TypeScript',
-      items: [
-        { text: '类型', link: '/docs/typescript/1' },
-        { text: '其它', link: '/docs/typescript/2' }
-      ]
-    },
-    {
-      text: 'Nest',
-      items: [{ text: '基础', link: '/docs/nest/1' }]
-    },
-    {
-      text: 'Node',
-      items: [{ text: 'Node', link: '/docs/node/1' }]
-    },
-    {
-      text: '服务端',
-      items: [
-        { text: '服务器配置', link: '/docs/server/1' },
-        { text: 'Mysql', link: '/docs/server/2' },
-        { text: 'Redis', link: '/docs/server/3' },
-        { text: 'Nginx', link: '/docs/server/4' },
-      ]
-    },
-    {
       text: '操作系统',
       items: [
         { text: 'Windows', link: '/docs/system/1' },
@@ -82,27 +26,6 @@ export const sidebar = {
         { text: 'MacOS', link: '/docs/system/3' },
       ]
     },
-    {
-      text: 'Swift',
-      items: [
-        { text: '安装环境', link: '/docs/swift/1' },
-        { text: '变量和常量', link: '/docs/swift/2' },
-        { text: '数据类型', link: '/docs/swift/3' },
-        { text: 'String 字符串', link: '/docs/swift/4' },
-        { text: 'Int 整数', link: '/docs/swift/5' },
-        { text: 'Double 双精度', link: '/docs/swift/6' },
-        { text: 'Bool 布尔', link: '/docs/swift/7' },
-        { text: '运算符', link: '/docs/swift/8' },
-        { text: 'Array 数组', link: '/docs/swift/9' },
-        { text: 'Set 集合', link: '/docs/swift/10' },
-        { text: 'Dictionary 字典', link: '/docs/swift/11' },
-        { text: 'Range 区间', link: '/docs/swift/12' },
-        { text: '元组', link: '/docs/swift/13' },
-        { text: '语句', link: '/docs/swift/14' },
-        { text: '函数', link: '/docs/swift/15' },
-        { text: 'Enum 枚举', link: '/docs/swift/16' },
-      ]
-    }
   ],
   '/article/': [
     {
