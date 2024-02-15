@@ -6,13 +6,13 @@ import { PluginTable } from './plugin'
 export default {
   title: 'Anlans', // 网站标题 （Tab标题）
   head: [
-    ['link', { rel: 'icon', href: 'https://product-1256871806.cos.ap-shanghai.myqcloud.com/imgs202402152228796.jpg' }]
+    ['link', { rel: 'icon', href: 'https://product-1256871806.cos.ap-shanghai.myqcloud.com/imgs202402152237004.png' }]
   ],
   lastUpdated: true, // 最后更新时间
   cacheDir: '../../node_modules',
   description,
   themeConfig: {
-    logo: 'https://product-1256871806.cos.ap-shanghai.myqcloud.com/imgs202402152228796.jpg',
+    logo: 'https://product-1256871806.cos.ap-shanghai.myqcloud.com/imgs202402152237004.png',
     socialLinks: [
       {
         icon: 'github',
