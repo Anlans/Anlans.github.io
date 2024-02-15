@@ -4,7 +4,7 @@ export const sidebar = {
       text: 'Hello',
       items: [
         { text: 'Hello', link: '/docs/hello/hello' },
-        { text: '联盟录语', link: '/docs/hello/lol' }
+        // { text: '联盟录语', link: '/docs/hello/lol' }
       ]
     },
     {
